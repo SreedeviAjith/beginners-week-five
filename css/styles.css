@@ -7,20 +7,20 @@ body {
 }
 
 .bg-dark{
-  background-color: tomato!important;
+  background-color: pink!important;
 }
 
 .navbar-dark .navbar-brand{
   color: black;
 }
 .navbar-dark .navbar-nav .active>.nav-link{
-  color: green;
+  color: black;
 }
-.col-sm {
-background-color: green;
-border: 2px solid black;
+.navbar-dark .navbar-nav .nav-link {
+  color: black;
+  text-decoration: underline;
+}
 
-}
 .btn-primary {
     color: #fff;
     background-color: orange;
